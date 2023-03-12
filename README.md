@@ -1,1 +1,1 @@
-# Stream-Recommendation-App
+# proiect-poo-template
